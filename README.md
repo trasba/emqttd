@@ -7,3 +7,6 @@ architecture: armhf / armv71
 the source is from https://github.com/emqtt/emq-relx
 
 couldn't find it anywhere else
+
+releases:
+https://github.com/trasba/emqttd/releases
